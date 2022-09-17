@@ -1,0 +1,6 @@
+.bg-img {
+    background-image: url("../../assets/img/weather_app.webp");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
