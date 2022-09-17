@@ -1,6 +1,7 @@
 .bg-img {
-    background-image: url("../../assets/img/weather_app.webp");
+    background-image: url("../../assets/img/weather-img.jpg");
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     height: 100vh;
 }
